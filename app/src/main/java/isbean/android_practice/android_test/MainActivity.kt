@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //branch : gitHub_rebase
-        //process:1
+        //process:2
     }
 }
