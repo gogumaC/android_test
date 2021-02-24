@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         binding= DataBindingUtil.setContentView(this,R.layout.activity_main)
 
         //branch : gitHub
-        //process : 0
+        //process : 1
     }
 }
